@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ujjwal_Firegram/static/css/main.e3bd3a6e.chunk.css",
+    "main.js": "/Ujjwal_Firegram/static/js/main.7ab4aeda.chunk.js",
+    "main.js.map": "/Ujjwal_Firegram/static/js/main.7ab4aeda.chunk.js.map",
+    "runtime-main.js": "/Ujjwal_Firegram/static/js/runtime-main.2d270a10.js",
+    "runtime-main.js.map": "/Ujjwal_Firegram/static/js/runtime-main.2d270a10.js.map",
+    "static/js/2.e74f08f7.chunk.js": "/Ujjwal_Firegram/static/js/2.e74f08f7.chunk.js",
+    "static/js/2.e74f08f7.chunk.js.map": "/Ujjwal_Firegram/static/js/2.e74f08f7.chunk.js.map",
+    "index.html": "/Ujjwal_Firegram/index.html",
+    "precache-manifest.00372d345f4d50707076cd4547a519d2.js": "/Ujjwal_Firegram/precache-manifest.00372d345f4d50707076cd4547a519d2.js",
+    "service-worker.js": "/Ujjwal_Firegram/service-worker.js",
+    "static/css/main.e3bd3a6e.chunk.css.map": "/Ujjwal_Firegram/static/css/main.e3bd3a6e.chunk.css.map",
+    "static/js/2.e74f08f7.chunk.js.LICENSE.txt": "/Ujjwal_Firegram/static/js/2.e74f08f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d270a10.js",
+    "static/js/2.e74f08f7.chunk.js",
+    "static/css/main.e3bd3a6e.chunk.css",
+    "static/js/main.7ab4aeda.chunk.js"
+  ]
+}
